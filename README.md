@@ -1,4 +1,4 @@
-View the finalproject.ipynb file to view the guide containing all of the code and explanations.
+View the FinalProject.ipynb file to view the guide containing all of the code and explanations.
 
 This guide is intended to educate beginners who are unfamilar with the stock market and for those who want to learn how to begin analyzing trends in stocks. 
 
