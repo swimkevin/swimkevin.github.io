@@ -1,1 +1,1 @@
-View the FinalProject.ipynb file to view the guide containing all of the code and commentary.
+View the Kevin Song, Vivek Ramani Final Project.ipynb file to view the guide containing all of the code and commentary.
